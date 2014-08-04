@@ -1,5 +1,5 @@
-##Reviewing My Learning History
-
+##Reviewing My Learning History  
+</br>
 
 **What habits have you developed over the years that you feel might hinder you as a learner during WDI?**
 
