@@ -5,7 +5,7 @@
 
 Commands | Description
 -------- | -----------
-value 1  | yo
+`git remote -v`  | checks if a folder is linked to a repository
 value 2  | value two
 value 3  |
 value 4  |
