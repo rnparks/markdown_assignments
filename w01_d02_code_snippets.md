@@ -15,6 +15,6 @@ Commands | Description
 `pry`   | moves from bash to a ruby REPL (read, eval, print, loop).  This allows use type ruby code directly into the terminal
 `exit`   |  exits pry and gets us back to bash
 `ll`   |  list files (including hidden files) from a directory in long form
-`git add .`   | adds all files in a directory to commit changes
+`git add .`   | adds all files in a directory to commit changes <img src="./homework2_image2.jpeg">
 `git commit -m`   | saves comments and tracks changes after files have been added
 
