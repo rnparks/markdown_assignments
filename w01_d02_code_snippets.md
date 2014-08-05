@@ -6,7 +6,7 @@
 Commands | Description
 -------- | -----------
 `git remote -v`  | checks if a folder is linked to a repository
-`git remote add origin`  | adds a folder to a Github respository  ![hello](homework2_image2.jpg)
+`git remote add origin <SSH>`  | adds a folder to a Github respository  ![](~/Desktop/markdown_assignments/homework2_image2.jpg "image 2")  <img src="./homework2_image1.jpg">
 `git remote add upstream <SSH>` | Adds an upstream repository
 `git push origin master` | pushes files up to a Github repository
 `git pull upstream master` | pulls/fetches files from an upstream directory 
