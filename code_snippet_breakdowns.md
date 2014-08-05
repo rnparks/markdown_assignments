@@ -15,3 +15,6 @@ Command		| Description
 `git commit -m`| this commits the changes to the log file.  the `-m` allows us to provide comments directly in the command line.
 `git log`	| pulls up a list changes with a unique id.  We can copy and past this id into terminal to use diff
 `git diff` |shows the changes between versions of the same file.
+
+
+#test for Github tracking
